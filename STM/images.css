@@ -1,0 +1,45 @@
+/*---FUNDO PRINCIPAL---*/
+body{ 
+    background-image: url(./imagens/fundo1.png);
+    color: rgb(3, 3, 3);
+    background-size: cover; 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+/*---LOGO PRINCIPAL ALL PAGES---*/
+#logo_1{
+    background-image: url(./imagens/logo_1.png);
+    background-size: 200px ;
+    background-attachment: fixed;
+    background-repeat:no-repeat ;
+}
+
+/*---CONTEÚDO PRODUTOS---*/
+#assertivo{
+    background-image: url(./imagens/assertivo.png);
+    background-size: 400px ;
+    background-repeat:no-repeat ;    
+    width: 400px;
+    height: 480px;
+    margin-left: 20px; 
+}
+/*----CONTEÚDO BLOG----*/
+#blog_1{
+    background-image: url(/imagens/r_1.png);
+    background-size: 400px ;
+    width: 400px;
+    height: 500px;
+    margin-left: 30px;
+}
+
+
+/*---CONTEÚDO CONTATO---*/
+
+
+
+/*---CONTEÚDO SOSBRE---*/
+
+
+
+

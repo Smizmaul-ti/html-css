@@ -1,0 +1,130 @@
+/*-- TITULO PRODUTOS --*/
+#titulo {
+    text-decoration-color: rgb(22, 22, 22);
+    text-align: left;
+    text-shadow: 1px 1px 1px whitesmoke;
+    text-align: justify;
+    text-indent: 410px;
+    letter-spacing: 0.5px;
+    line-height: 27px;
+    font-size: 15px;
+}
+
+/*-- TEXTO PRODUTOS --*/
+#texto_1 {
+    text-decoration-color: rgb(22, 22, 22);
+    text-align: left;
+    text-shadow: 1px 1px 1px whitesmoke;
+    text-align: justify;
+    letter-spacing: 0.5px;
+    line-height: 27px;
+    font-size: 15px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+/*-- TITULO SOBRE --*/
+#titulo_s {
+    margin-left: 25px;
+}
+
+/*-- TEXTO SOBRE --*/
+#texto_sobre {
+    text-decoration-color: rgb(22, 22, 22);
+    text-align: left;
+    text-shadow: 1px 1px 1px whitesmoke;
+    text-align: justify;
+    letter-spacing: 0.5px;
+    line-height: 27px;
+    font-size: 15px;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+
+
+/*-- TITULO SOBRE NÓS --*/
+#titulo_2 {
+    text-decoration-color: rgb(22, 22, 22);
+    text-align: left;
+    text-shadow: 1px 1px 1px whitesmoke;
+    text-align: justify;
+    text-indent: 410px;
+    letter-spacing: 0.5px;
+    line-height: 27px;
+    font-size: 15px;
+    margin-left: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+/*--- TEXTO SOBRE NÓS ---*/
+#texto_2 {
+    text-decoration-color: rgb(22, 22, 22);
+    text-align: left;
+    text-shadow: 1px 1px 1px whitesmoke;
+    text-align: justify;
+    letter-spacing: 0.5px;
+    line-height: 20px;
+    font-size: 20px;
+    border: 1px solid;
+    padding: 10px;
+    background-color: rgb(153, 153, 153);
+    box-sizing: border-box;
+    width: 1300px;
+    height: 450px;
+    margin-left: 20px;
+}
+
+/*----TITULO PRODUTOS----*/
+#titulo_4 {
+    text-indent: 135px;
+    text-decoration-color: rgb(22, 22, 22);
+    text-align: left;
+    text-shadow: 1px 1px 1px whitesmoke;
+    text-align: justify;
+    letter-spacing: 0.5px;
+    line-height: 27px;
+    font-size: 15px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+/*---TEXTO 2 PRODUTOS---*/
+#texto_3 {
+
+    background-size: 300px;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 680px;
+    border: 1px solid;
+    padding: 5px;
+    background-color: rgb(153, 153, 153);
+    box-sizing: border-box;
+    margin-left: 20px;
+}
+
+
+/*---TEXTO 1 BLOG---*/
+#titulo_b {
+    margin-left: 30px;
+}
+
+
+/*---TEXTO 1 BLOG---*/
+#texto_4 {
+
+    background-size: 1300px;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 300px;
+    border: 1px solid;
+    padding: 0.03px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(153, 153, 153);
+    box-sizing: border-box;
+    margin-left: 30px;
+    margin-right: 30px;
+    overflow: auto;
+}
+

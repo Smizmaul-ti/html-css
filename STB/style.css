@@ -1,0 +1,136 @@
+/*-- CONFIGURAÇÕES DE TEXTO --*/
+
+a {
+    text-decoration: none;
+    color: rgb(118, 7, 223);
+}
+
+ul {
+
+    text-decoration: none;
+    color: black;
+    padding: 2px;
+    padding-top: 1px;
+    padding-bottom: 0.5px;
+    border-radius: 6px;
+    border: 1px solid rgb(5, 5, 5);
+    background-color: rgba(160, 158, 158, 0.788);
+}
+
+
+p {
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+}
+
+
+li:hover {
+    background: rgb(177, 86, 157)
+}
+
+
+#titulo-1 {
+    float: left
+}
+
+
+
+
+
+
+
+
+
+
+/*-- CONFIGURAÇÕES DE IMAGENS (DIV) --*/
+
+#logo-cb {
+    background-image: url(./images/logo_cb.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*-- CONFIGURAÇÕES DE PAGINA PRINCIPAL (CLASS)--*/
+
+.sobre {
+    position: relative;
+    right: inherit;
+    bottom: 10px;
+
+}
+
+.serviços {
+    position: relative;
+    right: inherit;
+    bottom: 10px;
+}
+
+.contato {
+    position: relative;
+    right: inherit;
+    bottom: 10px;
+}
+
+.blog {
+    position: relative;
+    right: inherit;
+    bottom: 10px;
+}
+
+
+
+
+
+/*-- CONFIGURAÇÕES DE CONTATO --*/
+
+.infos {
+    padding-left: 16px;
+}
+
+.sociais {
+
+    font-size: 15px;
+    padding-left: 15px;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.instagram {
+
+    list-style-image: url(./imagens/instagram_20.png);
+    padding-top: 1px;
+}
+
+.cidade {
+
+    list-style-image: url(./imagens/maps_20.png);
+}
+
+.email {
+    list-style-image: url(./imagens/gmail_20.png);
+}
+
+.telefone {
+
+    list-style-image: url(./imagens/celular_b20.png);
+}
