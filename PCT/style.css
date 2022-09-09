@@ -61,7 +61,7 @@ h2 {
 }
 
 .content {
-    max-width: 648px;
+    max-width: 900px;
     margin: auto;
 }
 
@@ -82,10 +82,12 @@ p {
 
 figure {
     padding: 0;
-    margin: 40px, 0px;
+    margin: 1.5px;
+    font-size: 16px;
 }
 
 
 figure>img {
     width: 100%;
 }
+
