@@ -91,3 +91,12 @@ figure>img {
     width: 100%;
 }
 
+.footer{
+    background-color: #333;
+    text-align: center;
+    color: aliceblue;
+    font-size: 12px;
+    font-weight: none;
+    padding: 4px;
+    border-bottom: 4px solid rgb(247, 99, 14)
+}
